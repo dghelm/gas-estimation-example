@@ -1,4 +1,6 @@
-<img src="./assets/banner.png" alt="scroll-banner"/>
+## Project moved to the [scroll-guides](https://github.com/scroll-tech/scroll-guides/tree/main/gas-estimation-demo) repo
+
+---
 
 # Scroll Gas Estimation Example
 This project demonstrates how to use estimate gas on Scroll
